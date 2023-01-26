@@ -29,8 +29,8 @@ taxonomies:
       name: GloBI Taxon Graph
 #    - id: indexfungorum
 #      name: Index Fungorum
-#    - id: ott
-#      name: Open Tree of Life Taxonomy
+    - id: ott
+      name: Open Tree of Life Taxonomy
 #    - id: plazi
 #      name: Plazi Treatments
 #    - id: tpt
